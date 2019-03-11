@@ -1,6 +1,7 @@
 Emma Patton's Icons
 =============================
-##7 Icons of Love
+7 Icons of Love
+-----------------------
 
 
 This is Emma's icon assignment for drawing on the web. 
