@@ -9,4 +9,4 @@ There are 7 icons, each representing a different form love, as defined in Greek 
 
 See Emma's Github repository [here](https://github.com/emma907/icons)
 
-:heart:heart:heart:
+:heart::heart::heart:
